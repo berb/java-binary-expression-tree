@@ -1,6 +1,6 @@
 # java-binary-expression-tree
 
-A simple implementation of an expression tree for binary termins in Java for educational purposes.
+A simple implementation of an expression tree for binary terms in Java for educational purposes.
 
 ## License
 
